@@ -1,6 +1,27 @@
 {
   "proposed": [],
-  "approved": [],
-  "skipped": [],
-  "built": []
+  "approved": [
+    {
+      "id": "2116229336487600437",
+      "title": "Polymarket 15-minute gold/silver markets",
+      "url": "https://x.com/Polymarket/status/2116229336487600437",
+      "date": "2026-11-16"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "2122148127520289151",
+      "title": "Qwen4-Max",
+      "url": "https://x.com/Alibaba_Qwen/status/2122148127520289151",
+      "date": "2026-11-16"
+    }
+  ],
+  "built": [
+    {
+      "id": "2116229336487600437",
+      "title": "Polymarket 15-minute gold/silver markets",
+      "url": "https://x.com/Polymarket/status/2116229336487600437",
+      "date": "2026-11-16"
+    }
+  ]
 }

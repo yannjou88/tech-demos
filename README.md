@@ -12,3 +12,4 @@ Each demo PR includes at least one screenshot and one video of the running app.
 
 | Name | Tech | Date | Link |
 | --- | --- | --- | --- |
+| Gold & silver 15-minute odds | Next.js, shadcn/ui, Polymarket Gamma & CLOB | 2026-11-16 | [apps/gold-15min-odds](apps/gold-15min-odds) |
