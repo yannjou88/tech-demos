@@ -1,3 +1,5 @@
+在线打开 / Open live: https://gold-15min-odds.yannjou88.workers.dev
+
 # 十五分钟涨跌
 
 只读看板，给一位交易员看黄金或白银：接下来这 15 分钟，Polymarket 上的价格更偏向涨还是跌。不下单，不连接钱包，也不需要登录。
