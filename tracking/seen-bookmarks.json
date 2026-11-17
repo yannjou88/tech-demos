@@ -1,10 +1,23 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2122394902168473975",
+      "title": "SignuDoc",
+      "url": "https://x.com/kevinrose/status/2122394902168473975",
+      "date": "2026-11-16"
+    }
+  ],
   "approved": [
     {
       "id": "2116229336487600437",
       "title": "Polymarket 15-minute gold/silver markets",
       "url": "https://x.com/Polymarket/status/2116229336487600437",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "2122394902168473975",
+      "title": "SignuDoc",
+      "url": "https://x.com/kevinrose/status/2122394902168473975",
       "date": "2026-11-16"
     }
   ],
@@ -14,6 +27,12 @@
       "title": "Qwen4-Max",
       "url": "https://x.com/Alibaba_Qwen/status/2122148127520289151",
       "date": "2026-11-16"
+    },
+    {
+      "id": "2122329345670988258",
+      "title": "Allo font",
+      "url": "https://x.com/i/web/status/2122329345670988258",
+      "date": "2026-11-17"
     }
   ],
   "built": [
