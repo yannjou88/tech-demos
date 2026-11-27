@@ -1,5 +1,30 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2125135912082571730",
+      "title": "Mediterranean Pool (flowers, caustics, whirlpool)",
+      "url": "https://x.com/sonuv_dev/status/2125135912082571730",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "2124169930195022237",
+      "title": "Hippo Jelly",
+      "url": "https://x.com/vib3coded/status/2124169930195022237",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "2124916161083314420",
+      "title": "Origami Carousel",
+      "url": "https://x.com/thebuggeddev/status/2124916161083314420",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "2125320869924782261",
+      "title": "Desert Sand Truck",
+      "url": "https://x.com/thomasma_labs/status/2125320869924782261",
+      "date": "2026-11-27"
+    }
+  ],
   "approved": [
     {
       "id": "2116229336487600437",
@@ -14,7 +39,16 @@
       "title": "Qwen4-Max",
       "url": "https://x.com/Alibaba_Qwen/status/2122148127520289151",
       "date": "2026-11-16"
-    }
+    },
+    { "title": "Allo font", "date": "2026-11-27" },
+    { "title": "PDF signer (SignuDoc)", "date": "2026-11-27" },
+    { "title": "live 3D earth globe", "date": "2026-11-27" },
+    { "title": "free unlimited-drawings crypto chart", "date": "2026-11-27" },
+    { "title": "Hyperliquid whale watch", "date": "2026-11-27" },
+    { "title": "Liquid Blobs", "date": "2026-11-27" },
+    { "title": "water-drop demo", "date": "2026-11-27" },
+    { "title": "retro video filter NTSCRT", "date": "2026-11-27" },
+    { "title": "holographic betta fish", "date": "2026-11-27" }
   ],
   "built": [
     {
@@ -22,6 +56,12 @@
       "title": "Polymarket 15-minute gold/silver markets",
       "url": "https://x.com/Polymarket/status/2116229336487600437",
       "date": "2026-11-16"
+    },
+    {
+      "id": "2125135912082571730",
+      "title": "Mediterranean Pool (flowers, caustics, whirlpool)",
+      "url": "https://x.com/sonuv_dev/status/2125135912082571730",
+      "date": "2026-11-27"
     }
   ]
 }
